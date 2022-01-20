@@ -1,0 +1,23 @@
+.master-head {
+    height: 100vh;
+    padding-top: 9.5rem;
+    padding-bottom: 5rem;
+    color: #fff;
+    background: #070300;
+
+    h1:nth-child(2) {
+        color: #7ff800;
+    }
+  }
+  
+  .navbar {
+    background: #171717;
+  
+    a {
+      color: #7ff800;
+    }
+  }
+  
+  .text-bold {
+    font-weight: bold;
+  }
