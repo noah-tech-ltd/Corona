@@ -11,7 +11,7 @@
 	<array>
 		<dict>
 			<key>FullScreen</key>
-			<false/>
+			<true/>
 			<key>Icon</key>
 			<data>
 			iVBORw0KGgoAAAANSUhEUgAAALQAAAC0CAYAAAA9zQYyAAAAAXNS
@@ -838,11 +838,11 @@
 			<key>PayloadDisplayName</key>
 			<string>Web Clip</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.972D6263-EDBF-44F0-A214-A1F3D3A75A24</string>
+			<string>com.apple.webClip.managed.29503126-62BC-44ED-AD66-AC6CAB19D9A3</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>972D6263-EDBF-44F0-A214-A1F3D3A75A24</string>
+			<string>29503126-62BC-44ED-AD66-AC6CAB19D9A3</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -864,7 +864,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>9B188AE3-2CD7-4ECC-A09C-CB423BC55533</string>
+	<string>3A6676ED-832A-412D-B271-A4B08B2DE24A</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
